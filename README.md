@@ -1,3 +1,3 @@
 # hello-world
 first repository
-cicig fuck
+trying to build something but everything is falling appart.
